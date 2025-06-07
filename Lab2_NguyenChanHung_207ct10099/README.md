@@ -33,7 +33,8 @@ Thuật toán sử dụng:
     folder_path = 'exercise'
     images = [f for f in os.listdir(folder_path) if f.endswith(('pagoda.jpg'))]
 
-- break ngưng chương trình, nhập Q để ngưng 
+- break ngưng chương trình, nhập Q để ngưng.
+   
   if choice == 'Q'
     break
 
