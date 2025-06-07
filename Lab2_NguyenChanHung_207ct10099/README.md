@@ -14,6 +14,7 @@ Thuật toán sử dụng:
  - image inverse ( hàm đảo ảnh ) dùng để đảo ngược màu sắc của ảnh
    
    def image_inverse(image):
+   
     return 255 - image
 
    nếu như image có giá trị là x thì sẽ trở thành 255 - x
@@ -30,7 +31,9 @@ Thuật toán sử dụng:
 - def main dùng để lấy các ảnh từ foler exercise ( các ảnh có thể là .png .jpg .. )
   
   def main():
+  
     folder_path = 'exercise'
+  
     images = [f for f in os.listdir(folder_path) if f.endswith(('pagoda.jpg'))]
 
 - break ngưng chương trình, nhập Q để ngưng.
