@@ -36,6 +36,7 @@ Thuật toán sử dụng:
 - break ngưng chương trình, nhập Q để ngưng.
    
   if choice == 'Q'
+  
     break
 
 
