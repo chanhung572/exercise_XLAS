@@ -49,11 +49,17 @@ Thuật toán sử dụng:
 
 Cách hoạt động:
  - sau khi chạy chương trình sẽ in ra các phương pháp biến đổi ảnh, người dùng sẽ nhấn các phím I G L H C và Q ( ngưng chương trình ) để in ra các ảnh mới đã qua xử lý
+   
   I - Image Inverse Transformation
+  
   G - Gamma Correction
+  
   L - Log Transformation
+  
   H - Histogram Equalization
+  
   C - Contrast Stretching
+  
   Q - Thoát
   
 
