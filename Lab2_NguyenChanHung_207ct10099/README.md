@@ -1,7 +1,7 @@
 Giải thích lab2_exercise.ipynb
 
 Câu 1 
-xử dụng pip install opencv-python matplotlib để cài đặt thư viện opencv để xử lý ảnh
+sử dụng pip install opencv-python matplotlib để cài đặt thư viện opencv để xử lý ảnh
 
 
 
